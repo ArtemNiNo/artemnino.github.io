@@ -1,11 +1,23 @@
 {
   "name": "newp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemNiNo/artemnino.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArtemNiNo/artemnino.github.io/issues"
+  },
+  "homepage": "https://github.com/ArtemNiNo/artemnino.github.io#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
